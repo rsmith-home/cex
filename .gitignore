@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (if created inside the workspace)
+.venv/
+venv/
+ENV/
+
+# Environment variables & secrets
+.env
+
+# OS specific files
+.DS_Store
+Thumbs.db
