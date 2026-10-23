@@ -16,5 +16,8 @@
 			}
 		}
 	},
-	"postCreateCommand": "pip install --upgrade pip & if [ -f requirements.txt ]; then pip install -r requirements.txt; fi"
+	"remoteEnv": {
+		"PATH": "${containerEnv:HOME}/.opencode/bin:${containerEnv:PATH}"
+	},
+	"postCreateCommand": "bash .devcontainer/post-create.sh"
 }
