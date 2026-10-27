@@ -3,6 +3,7 @@ import sys
 from time import sleep
 
 from cex import get_box, get_nearest_stores, get_stores
+from html_output import add_html_argument, write_html_outputs
 from wishlist import add_platforms_argument, get_wishlist_box_ids
 
 
@@ -26,6 +27,7 @@ def main(argv=None):
         description="Check CeX stock for wishlist boxes, by platform."
     )
     add_platforms_argument(parser)
+    add_html_argument(parser)
     args = parser.parse_args(argv)
 
     wishlist_box_ids = get_wishlist_box_ids(args.platforms)
@@ -74,6 +76,8 @@ def main(argv=None):
     out_of_stock_boxes = list(
         filter(lambda box: box[1]["collectionQuantity"] == 0, boxes.items())
     )
+
+    write_html_outputs(args.html_dir, best_stores, rarest_boxes, out_of_stock_boxes)
     t = 0
     t = 1
 
