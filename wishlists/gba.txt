@@ -1,0 +1,52 @@
+045496733131C  # GBA Donkey Kong Country, Unboxed
+4012927080498AB  # GBA Breath Of Fire 2, w/ Manual, Boxed
+3307210114303AB  # GBA Boktai - The Sun is in Your Hand, w/ Manual, Boxed
+4012927081112AB  # GBA Boktai 2: Solar Boy Django, w/ Manual, Boxed
+4988602081565AB  # GBA Castlevania, w/ Manual, Boxed
+045496734855AB  # GBA Castlevania - NES Classics, w/ Manual, Boxed
+4012927081440AB  # GBA Castlevania Aria & Harmony, w/ Manual, Boxed
+045496461478AB  # GBA Donkey Kong: King of Swing, w/ Manual, Boxed
+045496733971AB  # GBA Donkey Kong Country 2, w/ Manual, Boxed
+045496735852AB  # GBA Donkey Kong Country 3, w/ Manual, Boxed
+045496731403AB  # GBA F-Zero Maximum Velocity, w/ Manual, Boxed
+045496733988AB  # GBA F-Zero GP Legend, w/ Manual, Boxed
+045496734923AB  # GBA Final Fantasy I & II (1&2), w/ Manual, Boxed
+045496736873AB  # GBA Final Fantasy IV (4) Advance, w/ Manual, Boxed
+SGBAFINE001AB  # GBA Final Fantasy V (5) Advance, w/ Manual, Boxed
+045496738433AB  # GBA Final Fantasy VI (6) Advance, w/ Manual, Boxed
+5026555040938AB  # GBA Grand Theft Auto, w/ Manual, Boxed
+3307210154811AB  # GBA Harvest Moon - Friends of Mineral Town, w/ Manual, Boxed
+045496731830AB  # GBA Kirby Nightmare in Dream Land, w/ Manual, Boxed
+SNINGBAG003AB  # GBA Klonoa, w/ Manual, Boxed
+045496734374AB  # GBA Mario Party Advance, w/ Manual, Boxed
+5055060940099AB  # GBA Megaman And Bass, w/ Manual, Boxed
+5055060940266AB  # GBA Megaman, Battle Chip Challenge, w/ Manual, Boxed
+3307210118677AB  # GBA Megaman Battle Network 2, w/ Manual, Boxed
+5055060940136AB  # GBA Megaman Battle Network 3 White, w/ Manual, Boxed
+5055060940112AB  # GBA Megaman Battle Network 3 Blue, w/ Manual, Boxed
+5055060940303AB  # GBA Megaman Battle Network 4 - Red Sun, w/ Manual, Boxed
+5055060940334AB  # GBA Megaman Battle Network 4 Blue Moon, w/ Manual, Boxed
+5055060940488AB  # GBA Megaman Battle Network 6: Cybeast Gregar, w/ Manual, Boxed
+SNINGBAG004AB  # GBA Megaman: Battle Network 6 - Cybeast Falzar, w/ Manual, Boxed
+5055060940228AB  # GBA Megaman Zero 2, w/ Manual, Boxed
+5055060940365AB  # GBA Megaman Zero 3, w/ Manual, Boxed
+5055060940471AB  # GBA Megaman Zero 4, w/ Manual, Boxed
+045496733254AB  # GBA Mario Golf Advance Tour, w/ Manual, Boxed
+045496731465AB  # GBA Mario Kart Super Circuit, w/ Manual, Boxed
+045496734398AB  # GBA Mario Power Tennis, w/ Manual, Boxed
+045496733995AB  # GBA Mario vs Donkey Kong, w/ Manual, Boxed
+5060050940126AB  # GBA Metal Slug Advance, w/ Manual, Boxed
+045496734862AB  # GBA Metroid (NES Classics), w/ Manual, Boxed
+4012927080443AB  # GBA Ninja Cop, w/ Manual, Boxed
+785138320366AB  # GBA Pokemon Emerald, w/ Manual, Boxed
+045496732530AB  # GBA Pokemon Ruby, w/ Manual, Boxed
+0454967341141AB  # GBA Pokemon Fire Red + Wireless Adaptor, w/ Manual, Boxed
+045496732547AB  # GBA Pokemon Sapphire, w/ Manual, Boxed
+045496731397AB  # GBA Super Mario Advance, w/ Manual, Boxed
+045496731540AB  # GBA Super Mario World: Super Mario Advance 2, w/ Manual, Boxed
+045496731861AB  # GBA Yoshi's Island: Super Mario Advance 3, w/ Manual, Boxed
+045496733384AB  # GBA Super Mario Advance 4: Super Mario Bros 3, w/ Manual, Boxed
+045496734381AB  # GBA Super Mario Ball, w/ Manual, Boxed
+045496732370AB  # GBA Wario Ware Inc., w/ Manual, Boxed
+045496735579AB  # GBA Yoshi's Universal Gravitation, w/ Manual, Boxed
+045496734893AB  # GBA Zelda II: The Adventure of Link, w/ Manual, Boxed

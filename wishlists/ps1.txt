@@ -1,0 +1,16 @@
+sps1g1015ab  # PS1 Ape Escape
+sps1g1204ab  # PS1 Crash Team Racing
+sps1g1213ab  # PS1 Croc: Legend of the Gobbos
+sps1g1377ab  # PS1 Final Fantasy IX
+sps1g1577ab  # PS1 Legacy of Kain: Soul Reaver
+sps1g1609ab  # PS1 The Lost Vikings 2
+SPS1G214AB  # PS1 PaRappa the Rapper: The Hip Hop Hero, w/ Manual, Boxed
+sps1g216ab  # PS1 Parasite Eve II
+sps1g331ab  # PS1 RC de Go
+sps1g470ab  # PS1 Spider-Man
+sps1g481ab  # PS1 Spyro The Dragon
+sps1g479ab  # PS1 Spyro 2
+SPS1G517AB  # PS1 Strider 2 (Incl. Strider 1), w/ Manual, Boxed
+sps1g526ab  # PS1 Suikoden, w/ Manual, Boxed
+SPS1G683AB  # PS1 Um Jammer Lammy, w/ Manual, Boxed
+sps1g697ab  # PS1 Vandal Hearts II, w/ Manual, Boxed

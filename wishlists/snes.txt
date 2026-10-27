@@ -1,0 +1,57 @@
+3362932401209c  # SNES Actraiser 2, Unboxed
+020763115018C  # SNES Aero The Acrobat 2, Unboxed
+083717150053c  # SNES Axelay, Unboxed
+5026102018069c  # SNES Claymates, Unboxed
+039854000423C  # SNES Hagane, The Final Conflict, Unboxed
+045496830113C  # SNES Kirby's Dream Course, Unboxed
+045496330569c  # SNES Lufia, Unboxed
+5018247559415c  # SNES Metal Marines, Unboxed
+083717150008c  # SNES Parodius, Unboxed
+045496330088c  # SNES Plok, Unboxed
+715664393077c  # SNES R-Type III, Unboxed
+045496330170c  # SNES Secret Of Mana, Unboxed
+9315973020001c  # SNES Shadowrun
+3362932401483c  # SNES Soul Blazer, Unboxed
+045496830380c  # SNES Super Punch Out, Unboxed
+045496330484c  # SNES Terranigma, Unboxed
+045496830533c  # SNES Tetris Attack, Unboxed
+5013658050322C  # SNES Top Gear 3000, Unboxed
+083717150046c  # SNES Turtles in Time
+719631000036AB  # SNES Actraiser, w/ Manual, Boxed
+3362932401209AB  # SNES Actraiser 2, w/ Manual, Boxed
+020763110310AB  # SNES Aero The Acrobat, w/ Manual, Boxed
+020763115018AB  # SNES Aero The Acrobat 2, w/ Manual, Boxed
+083717150053AB  # SNES Axelay, w/ Manual, Boxed
+5026102018069AB  # SNES Claymates, w/ Manual, Boxed
+045496830489AB  # SNES Donkey Kong Country 2, w/ Manual, Boxed
+045496830557AB  # SNES Donkey Kong Country 3, w/ Manual, Boxed
+045496830021AB  # SNES F Zero, w/ Manual, Boxed
+013388130108AB  # SNES Goof Troop, w/ Manual, Boxed
+045496830540AB  # SNES Kirby's Fun Pack, w/ Manual, Boxed
+045496830410AB  # SNES Kirby's Ghost Trap, w/ Manual, Boxed
+045496830113AB  # SNES Kirby's Dream Course, w/ Manual, Boxed
+083717150022AB  # SNES Legend of the Mystical Ninja, w/ Manual, Boxed
+045496830076AB  # SNES Legend of Zelda, The: A Link to the Past, w/ Manual, Boxed
+045496330033AB  # SNES Lost Vikings, w/ Manual, Boxed
+083717145073AB  # SNES Pop 'N TwinBee, w/ Manual, Boxed
+083717110071AB  # SNES Pop 'N TwinBee Rainbow Bell Adventures, w/ Manual, Boxed
+5026102020062AB  # SNES Rock N Roll Racing, w/ Manual, Boxed
+9315973020001AB  # SNES Shadowrun, w/ Manual, Boxed
+045496330347AB  # SNES Super Mario All Stars, w/ Manual, Boxed
+045496980337AB  # SNES Super Mario All Stars & Super Mario World, w/ Manual, Boxed
+045496830144AB  # SNES Super Mario Kart, w/ Manual, Boxed
+32965808306021AB  # SNES Super Mario World (Yellow Box), w/ Manual, Boxed
+3296580830602AB  # SNES Super Mario World (Red Box), w/ Manual, Boxed
+045496830298AB  # SNES Super Metroid, w/ Manual, Boxed
+045496830BBEB  # SNES Super Metroid, Big Box Ltd Ed., w/ Manual, Boxed
+013388130085AB  # SNES Super Pang, w/ Manual, Boxed
+083717150039AB  # SNES Super Probotector, w/ Manual, Boxed
+045496330019AB  # SNES Super R-Type, w/ Manual, Boxed
+715664393077AB  # SNES R-Type III, w/ Manual, Boxed
+021481601029AB  # SNES Super Smash TV, w/ Manual, Boxed
+045496830403AB  # SNES Tetris & Dr Mario, w/ Manual, Boxed
+045496830533AB  # SNES Tetris Attack, w/ Manual, Boxed
+741648001010AB  # SNES Top Gear, w/ Manual, Boxed
+74168001089AB  # SNES Top Gear 2, w/ Manual, Boxed
+5013658050322AB  # SNES Top Gear 3000, w/ Manual, Boxed
+045496830366AB  # SNES Wario's Woods, w/ Manual, Boxed

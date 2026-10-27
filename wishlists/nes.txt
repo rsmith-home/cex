@@ -1,0 +1,65 @@
+083717110217C  # NES Castlevania 3, Unboxed
+074299009266C  # NES Donkey Kong, Unboxed
+50109950398505C  # NES Donkey Kong 3, Unboxed
+974299009273C  # NES Donkey Kong Jr, Unboxed
+0214811060295C  # NES Double Dragon 3, Unboxed
+013388110360C  # NES Duck Tales 2, Unboxed
+013388110070c  # NES Mega Man, Unboxed
+0133881100705C  # NES Metal Gear, Unboxed
+045496630348C  # NES Metroid, Unboxed
+0454966303625C  # NES Rainbow Islands, Unboxed
+083717110026C  # NES Rush 'N Attack, Unboxed
+045496630539c  # NES Tetris Unboxed
+045496630737C  # NES Tetris 2 Unboxed
+040458011081AB  # NES Adventures of Lolo 2, w/ Manual, Boxed
+020763110099AB  # NES Batman: The Video Game, w/ Manual, Boxed
+013388110087AB  # NES Bionic Commando, w/ Manual, Boxed
+020763110068AB  # NES Blaster Master, w/ Manual, Boxed
+045496430399AB  # NES Boulder Dash, w/ Manual, Boxed
+045496430108AB  # NES Boy and His Blob, w/ Manual, Boxed
+020588010062AB  # NES Bubble Bobble, w/ Manual, Boxed
+083717110040AB  # NES Castlevania, w/ Manual, Boxed
+083717110149AB  # NES Castlevania 2 Simon's Quest, w/ Manual, Boxed
+083717110217AB  # NES Castlevania 3, w/ Manual, Boxed
+013388110209AB  # NES Chip 'N Dale Rescue Rangers, w/ Manual, Boxed
+045496630478AB  # NES Cobra Triangle, w/ Manual, Boxed
+074299009266AB  # NES Donkey Kong, w/ Manual, Boxed
+045496630423AB  # NES Donkey Kong Classics, w/ Manual, Boxed
+974299009273AB  # NES Donkey Kong Jr, w/ Manual, Boxed
+50109950398505AB  # NES Donkey Kong 3, w/ Manual, Boxed
+045496430085AB  # NES Double Dragon, w/ Manual, Boxed
+021481106029AB  # NES Double Dragon II, w/ Manual, Boxed
+0214811060295AB  # NES Double Dragon III, w/ Manual, Boxed
+013388110162AB  # NES Duck Tales, w/ Manual, Boxed
+013388110360AB  # NES Duck Tales 2, w/ Manual, Boxed
+0478757000629AB  # NES Gradius, w/ Manual, Boxed
+045496430023AB  # NES Super Off Road, w/ Manual, Boxed
+045496430382AB  # NES Kabuki Quantum Fighter, w/ Manual, Boxed
+045496630720AB  # NES Kirby's Adventure, w/ Manual, Boxed
+045496630324AB  # NES Legend Of Zelda, The, w/ Manual, Boxed
+032264900123AB  # NES Maniac Mansion, w/ Manual, Boxed
+013388110070AB  # NES Mega Man, w/ Manual, Boxed
+045496430405AB  # NES Mega Man 3, w/ Manual, Boxed
+045496430450AB  # NES Mega Man 4, w/ Manual, Boxed
+045496630348AB  # NES Metroid, w/ Manual, Boxed
+5024866130010AB  # NES Micro Machines, w/ Manual, Boxed
+0454964304985AB  # NES Paperboy, w/ Manual, Boxed
+5013156610240AB  # NES Parasol Stars, w/ Manual, Boxed
+083717110187AB  # NES Probotector II, w/ Manual, Boxed
+045496630614AB  # NES Punch-Out, w/ Manual, Boxed
+0454966303625AB  # NES Rainbow Islands, w/ Manual, Boxed
+045496630393AB  # NES R.C Pro AM, w/ Manual, Boxed
+0837171100265AB  # NES Rygar, w/ Manual, Boxed
+018946110073AB  # NES Shadow Warriors Ninja Gaiden, w/ Manual, Boxed
+045496630591AB  # NES Snake Rattle 'N Roll, w/ Manual, Boxed
+045496630140AB  # NES Super Mario Bros., w/ Manual, Boxed
+045496630386AB  # NES Super Mario Bros. 2, w/ Manual, Boxed
+045496630584AB  # NES Super Mario Bros. 3, w/ Manual, Boxed
+013388110261AB  # NES Talespin, w/ Manual, Boxed
+083717120032AB  # NES Teenage Mutant Hero Turtles, w/ Manual, Boxed
+0837171200325AB  # NES Teenage Mutant Hero Turtles II, w/ Manual, Boxed
+045496630539AB  # NES Tetris, w/ Manual, Boxed
+045496630737AB  # NES Tetris 2, w/ Manual, Boxed
+021481102038AB  # NES Tiger Heli, w/ Manual, Boxed
+04549673013055AB  # NES Wrath of the Black Manta, w/ Manual, Boxed
+045496630331AB  # NES Zelda II: The Adventures of Link, w/ Manual, Boxed
