@@ -2,16 +2,8 @@ import argparse
 import sys
 from time import sleep
 
-import requests
-
+from cex import get_box, get_nearest_stores, get_stores
 from wishlist import add_platforms_argument, get_wishlist_box_ids
-
-headers = {
-    "user-agent": "CeXiOS/7.2.15(0) /OS 26.3.1/iPhone 14/U-03CAAE84-5AF9-4A3A-9FCE-7E991DD23AF7"
-}
-
-boxes = {}
-stores = {}
 
 
 def _calculate_weighting(box):
@@ -38,39 +30,25 @@ def main(argv=None):
 
     wishlist_box_ids = get_wishlist_box_ids(args.platforms)
 
-    resp = requests.get("https://wss2.cex.uk.webuy.io/v3/stores", headers=headers)
-    resp.raise_for_status()
-    for store in resp.json()["response"]["data"]["stores"]:
-        store["wishlistBoxes"] = []
-        store["totalWeighting"] = 0
-        stores[store["storeId"]] = store
+    stores = {
+        x["storeId"]: {**x, "wishlistBoxes": [], "totalWeighting": 0}
+        for x in get_stores()
+    }
 
+    boxes = {}
     for box_id in wishlist_box_ids:
-        resp = requests.get(
-            "https://wss2.cex.uk.webuy.io/v3/boxes/{0}/detail".format(box_id),
-            headers=headers,
-        )
-        resp.raise_for_status()
-        if resp.json()["response"]["data"] is None:
+        box = get_box(box_id)
+        if box is None:
             continue
-        box = resp.json()["response"]["data"]["boxDetails"][0]
         box["weighting"] = _calculate_weighting(box)
         box["nearestStoreNames"] = []
 
         if box["collectionQuantity"] > 0:
-            resp = requests.get(
-                "https://wss2.cex.uk.webuy.io/v3/boxes/{0}/neareststores"
-                # "?latitude=51.522556&longitude=0.592793".format(box_id), headers=headers)  # Brighton
-                "?latitude=54.664533&longitude=-1.632944".format(box_id),
-                headers=headers,
-            )  # Home
-            resp.raise_for_status()
-            if resp.json()["response"]["data"]:
-                for store in resp.json()["response"]["data"]["nearestStores"]:
-                    store_id = int(store["storeId"])
-                    box["nearestStoreNames"].append(store["storeName"])
-                    stores[store_id]["wishlistBoxes"].append(box)
-                    stores[store_id]["totalWeighting"] += box["weighting"]
+            for store in get_nearest_stores(box_id, 54.664533, -1.632944):
+                store_id = int(store["storeId"])
+                box["nearestStoreNames"].append(store["storeName"])
+                stores[store_id]["wishlistBoxes"].append(box)
+                stores[store_id]["totalWeighting"] += box["weighting"]
 
         boxes[box_id] = box
         if (len(boxes) % 50) == 49:
@@ -90,7 +68,7 @@ def main(argv=None):
         stores.items(), key=lambda x: x[1]["totalWeighting"], reverse=True
     )
     rarest_boxes = sorted(
-        list(filter(lambda box: box[1]["collectionQuantity"] > 0, boxes.items())),
+        filter(lambda box: box[1]["collectionQuantity"] > 0, boxes.items()),
         key=lambda x: x[1]["collectionQuantity"],
     )
     out_of_stock_boxes = list(
