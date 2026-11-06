@@ -1,8 +1,7 @@
 import argparse
 import sys
-from time import sleep
 
-from cex import get_box, get_nearest_stores, get_stores
+from cex import CexError, get_box, get_nearest_stores, get_stores
 from html_output import add_html_argument, write_html_outputs
 from wishlist import add_platforms_argument, get_wishlist_box_ids
 
@@ -30,7 +29,7 @@ def main(argv=None):
     add_html_argument(parser)
     args = parser.parse_args(argv)
 
-    wishlist_box_ids = get_wishlist_box_ids(args.platforms)
+    wishlist = get_wishlist_box_ids(args.platforms)
 
     stores = {
         x["storeId"]: {**x, "wishlistBoxes": [], "totalWeighting": 0}
@@ -38,7 +37,7 @@ def main(argv=None):
     }
 
     boxes = {}
-    for box_id in wishlist_box_ids:
+    for box_id in [box_id for ids in wishlist.values() for box_id in ids]:
         box = get_box(box_id)
         if box is None:
             continue
@@ -53,10 +52,6 @@ def main(argv=None):
                 stores[store_id]["totalWeighting"] += box["weighting"]
 
         boxes[box_id] = box
-        if (len(boxes) % 50) == 49:
-            sleep(60.0)
-        else:
-            sleep(2.0)
 
     for store in stores.items():
         store[1]["wishlistBoxes"] = {
@@ -77,10 +72,21 @@ def main(argv=None):
         filter(lambda box: box[1]["collectionQuantity"] == 0, boxes.items())
     )
 
-    write_html_outputs(args.html_dir, best_stores, rarest_boxes, out_of_stock_boxes)
+    write_html_outputs(
+        args.html_dir,
+        best_stores,
+        rarest_boxes,
+        out_of_stock_boxes,
+        wishlist,
+        boxes,
+    )
     t = 0
     t = 1
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        sys.exit(main())
+    except CexError as e:
+        print(f"error: {e}", file=sys.stderr)
+        sys.exit(1)

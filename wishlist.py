@@ -51,7 +51,4 @@ def add_platforms_argument(parser):
 
 
 def get_wishlist_box_ids(platforms):
-    wishlist_box_ids = []
-    for platform in platforms:
-        wishlist_box_ids.extend(load_platform_box_ids(platform))
-    return wishlist_box_ids
+    return {platform: load_platform_box_ids(platform) for platform in platforms}
