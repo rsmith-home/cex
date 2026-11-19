@@ -1,7 +1,12 @@
 659556098605   # PC Age of Empires, Gold Edition
-659556517670   # PC ge Of Empires, Collector's Edition 
+659556517670   # PC Age Of Empires, Collector's Edition 
 882224043304   # PC Age Of Empires 3
 882224925723   # PC Age of Empires III - Complete Coll.
+805529879355   # PC Age of Mythology Gold Edition
+805529105775   # PC Age of Mythology
+5017783025705  # PC Age of Mythology +Titan Expansion
+5030930019907  # PC Alpha Centauri
+3307212312691  # PC Battle Realms
 5037999006848  # PC Black & White
 5030930047757  # PC Black & White 2
 5030917022098  # PC Call of Duty
@@ -20,9 +25,12 @@
 4005209069267  # PC Dawn of War - Winter Assault
 5030917024146  # PC Doom Collector's Edition
 5030917024399  # PC Doom 3
+5030930020927  # PC Dungeon Keeper 2
 5016488113960  # PC Fallout Collection
 3348542180338  # PC Half Life 2
+5037999003861  # PC Homeworld
 8715686005134  # PC Lemmings For Windows
+5030930039646  # PC LOTR - Battle for Middle Earth
 3546430026915  # PC Neverwinter Nights
 5017783556025  # PC Quake II- Xplosiv Range
 5030917032370  # PC Quake 4
