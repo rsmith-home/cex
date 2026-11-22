@@ -27,21 +27,32 @@
 5030917024399  # PC Doom 3
 5030930020927  # PC Dungeon Keeper 2
 5016488113960  # PC Fallout Collection
+3348542059245  # PC Gabriel Knight 3
 3348542180338  # PC Half Life 2
 5037999003861  # PC Homeworld
 8715686005134  # PC Lemmings For Windows
 5030930039646  # PC LOTR - Battle for Middle Earth
 3546430026915  # PC Neverwinter Nights
+5030930024000  # PC No One Lives Forever
+3348542164581  # PC No One Lives Forever 2
 5017783556025  # PC Quake II- Xplosiv Range
 5030917032370  # PC Quake 4
 5030917014840  # PC Return to Castle Wolfenstein
 5030917022296  # PC Return to Castle Wolfenstein: Extended
 5016488115612  # PC Rome Total War Anthology
 4014092002428  # PC Settlers IV 
+3307210229021  # PC Settlers 2 - 10th Anniversary Edition
 5030930025496  # PC Sim City 3000 UK Edition
+5017783556803  # PC Star Trek Voyager: Elite Force
+5032921020633  # PC Thief - Deadly Shadows
+5032921009942  # PC Thief 2
+5032921004404  # PC Thief - Dark Project
+5037999007487  # PC Thief 1 & 2
+5050740023024  # PC Thief, The Complete Collection
 5030930010591  # PC Theme Hospital
 5030917023309  # PC Vampire the Masquerade - Bloodlines
 3348542177574  # PC Warcraft III - Frozen Throne
 4005209046367  # PC Warhammer 40K Fire Warrior
 3546430130087  # PC Witcher
 3546430140260  # PC Witcher, Enhanced Edition
+5060020460739  # PC Z Steel Soldiers
