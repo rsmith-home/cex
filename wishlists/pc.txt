@@ -1,5 +1,8 @@
 659556098605   # PC Age of Empires, Gold Edition
 659556517670   # PC Age Of Empires, Collector's Edition 
+659556137977   # PC Age Of Empires II, The Age Of Kings
+659556460686   # PC Age Of Empires II, The Conquerors
+659556912222   # PC Age Of Empires II - Gold Edition (SN)
 882224043304   # PC Age Of Empires 3
 882224925723   # PC Age of Empires III - Complete Coll.
 805529879355   # PC Age of Mythology Gold Edition
@@ -31,7 +34,8 @@
 3348542180338  # PC Half Life 2
 5037999003861  # PC Homeworld
 8715686005134  # PC Lemmings For Windows
-5030930039646  # PC LOTR - Battle for Middle Earth
+5030930047863  # PC LOTR: Battle for Middle Earth II/2 (SN) Offline
+5030930050368  # PC LOTR, Battle for Middle Earth 2 CE (SN)
 3546430026915  # PC Neverwinter Nights
 5030930024000  # PC No One Lives Forever
 3348542164581  # PC No One Lives Forever 2
@@ -44,11 +48,6 @@
 3307210229021  # PC Settlers 2 - 10th Anniversary Edition
 5030930025496  # PC Sim City 3000 UK Edition
 5017783556803  # PC Star Trek Voyager: Elite Force
-5032921020633  # PC Thief - Deadly Shadows
-5032921009942  # PC Thief 2
-5032921004404  # PC Thief - Dark Project
-5037999007487  # PC Thief 1 & 2
-5050740023024  # PC Thief, The Complete Collection
 5030930010591  # PC Theme Hospital
 5030917023309  # PC Vampire the Masquerade - Bloodlines
 3348542177574  # PC Warcraft III - Frozen Throne

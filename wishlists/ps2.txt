@@ -31,7 +31,6 @@ slegps2s1006b  # PS2 Kaido Racer 2, + Manual, Boxed
 slegps2s1136b  # PS2 Mana Khemia: Alchemists Of Al-Revis-w/Outer Box/OST/Poster,+Manual,Boxed
 4012927025918  # PS2 Nanobreaker
 slegps2s1322b  # PS2 Neo Contra, + Manual, Boxed
-5060121822610  # PS2 Odin Sphere
 5060004766789  # PS2 Outrun 2006
 slegps2s1407b  # PS2 Persona 3, + Manual, Boxed
 SLEGPS2S1410B  # PS2 Persona 4 (With CD), + Manual, Boxed
